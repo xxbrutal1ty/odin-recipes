@@ -1,0 +1,1 @@
+Create index.html file for odin-recipes and create folder named recipes. Create recipe.html file and add recipe to it.
